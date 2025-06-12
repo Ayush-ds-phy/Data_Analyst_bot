@@ -1,4 +1,4 @@
-# Data_Analyst_bot
+#InsightGenie
 
 📊 Intelligent File Analyzer with LLaMA & Python
 This project is an AI-powered data and document analysis tool built with Python. It supports a variety of file formats (CSV, Excel, PDF, DOCX, TXT, Images) and uses Meta's LLaMA-4 via the Together API to generate insights, summaries, and recommendations. It also produces rich visualizations such as histograms, correlation heatmaps, and time series plots.
